@@ -6,7 +6,7 @@ function aNewBigSomething () {
 
 function something() {
 	console.log('I\'n something');
-	console.log('Buf fixed!:');
+	console.log('Bug fixed!:');
 }
 
 console.log('hello world');
